@@ -1,0 +1,4 @@
+awscli==1.16.193
+feedparser==5.2.1
+PyGithub==1.43.7
+requests==2.22.0
